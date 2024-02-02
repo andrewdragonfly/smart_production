@@ -1,0 +1,1 @@
+This is the git directory for the smart batteries, accessories, etal. 
